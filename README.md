@@ -1,4 +1,4 @@
-# FakeNewsDetector
+# Fake News Detector
 
 ### A collaborative project by 3 members: Yi Jiang, Kincent Lan, Richard Li
 
